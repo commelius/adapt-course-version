@@ -1,0 +1,15 @@
+{
+  "name": "adapt-course-version",
+  "version": "0.0.5",
+  "description": "An extension to output into console the version data stored in course.json.",
+	"main": "/js/adapt-course-version.js",
+	"keywords": [
+		"adapt-plugin",
+		"adapt-extension"
+	],
+	"authors": [
+		"Lukasz 'Severiaan' Grela"
+	],
+	"license": "GPL-3.0",
+  "homepage": "https://github.com/commelius/adapt-course-version"
+}
